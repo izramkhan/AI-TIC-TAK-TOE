@@ -57,9 +57,9 @@ python main.py
 AI-Tic-Tac-Toe/
 ├── main.py              # Main GUI and game interface
 ├── game_logic.py        # Game logic and AI algorithm
-├── winner_sound.mp3        # Win sound effect
-├── loser_sound.mp3    # Lose sound effect
-|── draw_sound.mp3      # Draw sound effet
+├── winner_sound.mp3     # Win sound effect
+├── loser_sound.mp3      # Lose sound effect
+|── draw_sound.mp3       # Draw sound effet
 ├── tic_tac_toe.ico      # Window icon (optional)
 └── README.md            # Project documentation
 ```
